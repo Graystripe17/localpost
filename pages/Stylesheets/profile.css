@@ -1,0 +1,27 @@
+#topbar-content li.freespace {
+	border-right:0;
+	border-right-width: 0px;
+	border-right-color: blue;
+	width: 55px;
+	cursor: auto;
+}
+#leftside>li {
+	float: left;
+	width: 55px;
+	cursor: pointer;
+	box-sizing: border-box;
+}
+li, ul, ol {
+	list-style: none;
+	list-style-image: none;
+	margin: 0;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 0;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}

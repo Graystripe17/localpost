@@ -1,0 +1,46 @@
+<style>
+body {
+    display: table;
+}
+.wrapper {
+    padding:20px;
+    height:auto;
+}
+footer {
+    background-color:slategrey;
+    display:table-row;
+    height:1px;
+}
+.hot {
+    background: #f7901e no-repeat;
+    height: 40px;
+    font-family: Sansation;
+    font-weight: bold;
+    font-size: 21px;
+    width:400px;
+    margin-bottom:5px;
+    padding-left:50px;
+    line-height:2;
+    position:relative;
+    color:red;
+    -webkit-transform: rotateY(130deg);
+    transform: rotateY(130deg);
+}
+.newposts {
+    color:red;
+    background:red;
+    background-color:red;
+    height:30px;
+    margin-bottom:5px;
+    padding-left:50px;
+    position:relative;
+    /*
+    Add HOVER
+    */
+}
+
+/*
+    Element=.<class> selector
+    id=#id selector
+*/
+</style>

@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"UserProfilePicture",
+				"UserProfilePicture"
+			],
+			[
+				"getUserName",
+				"getUserName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "classes.php",
+			"settings":
+			{
+				"buffer_size": 4098,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "conn.php",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Home.php",
+			"settings":
+			{
+				"buffer_size": 7708,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Stylesheets/header.css",
+			"settings":
+			{
+				"buffer_size": 747,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Stylesheets/profile.css",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 169,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Profile.php",
+			"settings":
+			{
+				"buffer_size": 360,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/getuser.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/ImageUpload.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/InsertUser.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/UserLogin.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/logout.php",
+		"/C/Users/Gaga/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/chat/pages/Home.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/chat/pages/classes.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/chat/pages/DisplayMessages.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/chat/pages/InsertMessage.php",
+		"/C/Users/Gaga/AppData/Roaming/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/C/Users/Gaga/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/uploads/.htaccess",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/passwords.txt",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/index.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/classes.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/Home.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/conn.php",
+		"/D/Users/Winston/dating website php/XAMPP/apache/conf/httpd.conf",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/pages/Upload.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/LocalPost/Stylesheets/style.css",
+		"/D/Users/Winston/CSRF/index.html",
+		"/D/Users/Winston/CSRF/submitform.html",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/chat/pages/InsertUser.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/chat/pages/index.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/chat/pages/conn.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/splash.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/apache/conf/httpd.conf",
+		"/D/Users/Winston/Dating Website PHP/create.php",
+		"/D/Users/Winston/Dating Website PHP/index.php",
+		"/D/Users/Winston/Dating Website PHP/XAMPP/htdocs/xampp/Gindex.php",
+		"/D/Users/Winston/wamp/www/Pages/classes.php",
+		"/D/Users/Winston/wamp/www/Pages/index.php",
+		"/D/Users/Winston/wamp/www/Pages/conn.php",
+		"/D/Users/Winston/Workspace/Chat/index.php",
+		"/D/Users/Winston/Workspace/Chat/ajaxLoad.php",
+		"/D/Users/Winston/Workspace/Chat/config.php",
+		"/D/Users/Winston/Workspace/Chat/jquery.js",
+		"/D/Users/Winston/Workspace/Chat/ajaxPost.php",
+		"/D/Users/Winston/Workspace/Chat/mysqli.class.php",
+		"/D/Users/Winston/Dating Website PHP/includes/connection.php",
+		"/D/Users/Winston/Code/Aphelion/index.php",
+		"/D/Users/Winston/Code/Aphelion/process.php",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-3.2.18/guides/code/getting_started/app/views/posts/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/journey-1.0.4/lib/journey/visualizer/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-3.2.18/lib/rails/generators/erb/scaffold/templates/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-3.2.18/guides/source/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/actionpack-4.1.1/lib/action_dispatch/journey/visualizer/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-3.2.18/guides/code/getting_started/app/views/home/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rails-4.1.1/guides/code/getting_started/app/views/posts/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-4.1.1/lib/rails/templates/rails/welcome/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-4.1.1/lib/rails/templates/rails/mailers/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-4.1.1/lib/rails/generators/erb/scaffold/templates/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rails-4.1.1/guides/source/index.html.erb",
+		"/D/Users/Winston/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rails-4.1.1/guides/code/getting_started/app/views/welcome/index.html.erb"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"localpost",
+			"global",
+			"get",
+			"GET",
+			"getPOST",
+			"get",
+			"style",
+			"style=",
+			"example-generic",
+			"?>",
+			"require_once",
+			"include",
+			"HOMEPROFILE",
+			"();\n",
+			"$target_dir",
+			" a",
+			"a",
+			"}\n",
+			"getuserpass",
+			"$_SESSION",
+			"execute",
+			"PDO",
+			"$",
+			"session",
+			"error",
+			".g",
+			"name",
+			"bdd",
+			"get",
+			"getusermail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "classes.php",
+					"settings":
+					{
+						"buffer_size": 4098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								891,
+								891
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "conn.php",
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Home.php",
+					"settings":
+					{
+						"buffer_size": 7708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "Stylesheets/header.css",
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Stylesheets/profile.css",
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Stylesheets/style.css",
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "Profile.php",
+					"settings":
+					{
+						"buffer_size": 360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.700216450216,
+			0.945887445887,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

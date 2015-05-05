@@ -1,0 +1,44 @@
+List of all previous errors major errors:
+
+
+
+Space between <? and php nulls tag
+
+Change in folder location of phpmyadmin
+
+Skype blocking port 80
+
+Not in htdocs folder
+
+Saving/updating a different index.html file (choose one in chat)
+
+Bad positioning of XAMPP installation
+
+Incorrect URL appendage; make sure localhost:8888/xampp/chat/index.php
+DO NOT PUT USE /xampp/chat/pages/index.php
+
+This URL works http://localhost:8888/xampp/chat/pages/Home.php, don't double pages
+
+data:{ChatText:ChatText} NOT data:(ChatText:ChatText). Troubleshoot JS
+
+Remember that <script type="text/javascript" src="../Js/jquery.js"></script> does NOT count as a script tag
+
+NEW YEARS
+
+TYPO action="pages/InsertUser.php" NOT action-"pages/InsertUser.php"
+
+Forgot to encrypt Password input again
+
+Specified "uploads/" target_dir when created folder "upload"
+
+When using img tag, do not put / before uploads in src
+
+SQL UPDATE users SET UserProfilePicture=:UserProfilePicture WHERE UserName=:UserName. Do not use ':this'
+
+Don't do this: .htaccess	Options -Indexes
+
+When looping forms in html, make sure they're each called something different or only the first one works
+
+Turn javascript text into number using parseInt( ... , 10);
+
+jQuery version 2.1 does not support this.attr('name'). Instead use $(this).prop('name')
